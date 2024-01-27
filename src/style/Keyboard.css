@@ -1,0 +1,35 @@
+button {
+    border: 1px solid dimgray;
+    margin: 2px;
+}
+
+#green {
+    color: green
+}
+
+#red {
+    color: red
+}
+
+#Helvetica {
+    font-family: Helvetica;
+}
+
+button {
+    font-family: Arial;
+}
+
+#space {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.letter {
+    border: 1px solid dimgray;
+    margin: 2px;
+}
+
+#keyBoard {
+    margin-left: 20%;
+    margin-right: 20%;
+}
